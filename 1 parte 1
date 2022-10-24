@@ -1,0 +1,6 @@
+primerT = ['enero', 'febrero', 'marzo']
+segundoT = ['abril', 'mayo', 'junio']
+tercerT = ['julio', 'agosto', 'septiembre']
+cuartoT = ['octubre', 'noviembre', 'diciembre']
+nueva_lista = primerT + segundoT + tercerT + cuartoT
+nueva_lista
